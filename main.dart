@@ -105,9 +105,4 @@ void main() {
 
   // print((a == b) && (c == d));
   // print((a == b) || (c == d));
-
-//   TEST TYPE OPERATOR
-
-  
-
-  
+}
